@@ -1,0 +1,320 @@
+{
+  "parks": [
+    {
+      "name": "Acadia National Park",
+      "id": "Q337396",
+      "url": "https://www.wikidata.org/wiki/Q337396"
+    },
+    {
+      "name": "Arches National Park",
+      "id": "Q223969",
+      "url": "https://www.wikidata.org/wiki/Q223969"
+    },
+    {
+      "name": "Badlands National Park",
+      "id": "Q306216",
+      "url": "https://www.wikidata.org/wiki/Q306216"
+    },
+    {
+      "name": "Big Bend National Park",
+      "id": "Q1427197",
+      "url": "https://www.wikidata.org/wiki/Q1427197"
+    },
+    {
+      "name": "Biscayne National Park",
+      "id": "Q866080",
+      "url": "https://www.wikidata.org/wiki/Q866080"
+    },
+    {
+      "name": "Black Canyon of the Gunnison National Park",
+      "id": "Q305880",
+      "url": "https://www.wikidata.org/wiki/Q305880"
+    },
+    {
+      "name": "Bryce Canyon National Park",
+      "id": "Q219562",
+      "url": "https://www.wikidata.org/wiki/Q219562"
+    },
+    {
+      "name": "Canyonlands National Park",
+      "id": "Q541856",
+      "url": "https://www.wikidata.org/wiki/Q541856"
+    },
+    {
+      "name": "Capitol Reef National Park",
+      "id": "Q129902",
+      "url": "https://www.wikidata.org/wiki/Q129902"
+    },
+    {
+      "name": "Carlsbad Caverns National Park",
+      "id": "Q273195",
+      "url": "https://www.wikidata.org/wiki/Q273195"
+    },
+    {
+      "name": "Channel Islands National Park",
+      "id": "Q306193",
+      "url": "https://www.wikidata.org/wiki/Q306193"
+    },
+    {
+      "name": "Congaree National Park",
+      "id": "Q175688",
+      "url": "https://www.wikidata.org/wiki/Q175688"
+    },
+    {
+      "name": "Crater Lake National Park",
+      "id": "Q239304",
+      "url": "https://www.wikidata.org/wiki/Q239304"
+    },
+    {
+      "name": "Cuyahoga Valley National Park",
+      "id": "Q152820",
+      "url": "https://www.wikidata.org/wiki/Q152820"
+    },
+    {
+      "name": "Death Valley National Park",
+      "id": "Q242111",
+      "url": "https://www.wikidata.org/wiki/Q242111"
+    },
+    {
+      "name": "Denali National Park and Preserve",
+      "id": "Q217136",
+      "url": "https://www.wikidata.org/wiki/Q217136"
+    },
+    {
+      "name": "Dry Tortugas National Park",
+      "id": "Q1143655",
+      "url": "https://www.wikidata.org/wiki/Q1143655"
+    },
+    {
+      "name": "Everglades National Park",
+      "id": "Q274131",
+      "url": "https://www.wikidata.org/wiki/Q274131"
+    },
+    {
+      "name": "Gates of the Arctic National Park and Preserve",
+      "id": "Q605657",
+      "url": "https://www.wikidata.org/wiki/Q605657"
+    },
+    {
+      "name": "Gateway Arch National Park",
+      "id": "Q45234",
+      "url": "https://www.wikidata.org/wiki/Q45234"
+    },
+    {
+      "name": "Glacier Bay National Park and Preserve",
+      "id": "Q261577",
+      "url": "https://www.wikidata.org/wiki/Q261577"
+    },
+    {
+      "name": "Glacier National Park",
+      "id": "Q373567",
+      "url": "https://www.wikidata.org/wiki/Q373567"
+    },
+    {
+      "name": "Grand Canyon National Park",
+      "id": "Q220289",
+      "url": "https://www.wikidata.org/wiki/Q220289"
+    },
+    {
+      "name": "Grand Teton National Park",
+      "id": "Q222695",
+      "url": "https://www.wikidata.org/wiki/Q222695"
+    },
+    {
+      "name": "Great Basin National Park",
+      "id": "Q1137657",
+      "url": "https://www.wikidata.org/wiki/Q1137657"
+    },
+    {
+      "name": "Great Sand Dunes National Park and Preserve",
+      "id": "Q609097",
+      "url": "https://www.wikidata.org/wiki/Q609097"
+    },
+    {
+      "name": "Great Smoky Mountains National Park",
+      "id": "Q464004",
+      "url": "https://www.wikidata.org/wiki/Q464004"
+    },
+    {
+      "name": "Guadalupe Mountains National Park",
+      "id": "Q370501",
+      "url": "https://www.wikidata.org/wiki/Q370501"
+    },
+    {
+      "name": "Haleakal\u0101 National Park",
+      "id": "Q1137640",
+      "url": "https://www.wikidata.org/wiki/Q1137640"
+    },
+    {
+      "name": "Hawai\u02bbi Volcanoes National Park",
+      "id": "Q205952",
+      "url": "https://www.wikidata.org/wiki/Q205952"
+    },
+    {
+      "name": "Hot Springs National Park",
+      "id": "Q1143416",
+      "url": "https://www.wikidata.org/wiki/Q1143416"
+    },
+    {
+      "name": "Indiana Dunes National Park",
+      "id": "Q6023179",
+      "url": "https://www.wikidata.org/wiki/Q6023179"
+    },
+    {
+      "name": "Isle Royale National Park",
+      "id": "Q163515",
+      "url": "https://www.wikidata.org/wiki/Q163515"
+    },
+    {
+      "name": "Joshua Tree National Park",
+      "id": "Q735202",
+      "url": "https://www.wikidata.org/wiki/Q735202"
+    },
+    {
+      "name": "Katmai National Park and Preserve",
+      "id": "Q609902",
+      "url": "https://www.wikidata.org/wiki/Q609902"
+    },
+    {
+      "name": "Kenai Fjords National Park",
+      "id": "Q841503",
+      "url": "https://www.wikidata.org/wiki/Q841503"
+    },
+    {
+      "name": "Kings Canyon National Park",
+      "id": "Q936623",
+      "url": "https://www.wikidata.org/wiki/Q936623"
+    },
+    {
+      "name": "Kobuk Valley National Park",
+      "id": "Q836264",
+      "url": "https://www.wikidata.org/wiki/Q836264"
+    },
+    {
+      "name": "Lake Clark National Park and Preserve",
+      "id": "Q712296",
+      "url": "https://www.wikidata.org/wiki/Q712296"
+    },
+    {
+      "name": "Lassen Volcanic National Park",
+      "id": "Q1163542",
+      "url": "https://www.wikidata.org/wiki/Q1163542"
+    },
+    {
+      "name": "Mammoth Cave National Park",
+      "id": "Q242681",
+      "url": "https://www.wikidata.org/wiki/Q242681"
+    },
+    {
+      "name": "Mesa Verde National Park",
+      "id": "Q237128",
+      "url": "https://www.wikidata.org/wiki/Q237128"
+    },
+    {
+      "name": "Mount Rainier National Park",
+      "id": "Q944329",
+      "url": "https://www.wikidata.org/wiki/Q944329"
+    },
+    {
+      "name": "National Park of American Samoa",
+      "id": "Q843075",
+      "url": "https://www.wikidata.org/wiki/Q843075"
+    },
+    {
+      "name": "New River Gorge National Park and Preserve",
+      "id": "Q7011245",
+      "url": "https://www.wikidata.org/wiki/Q7011245"
+    },
+    {
+      "name": "North Cascades National Park",
+      "id": "Q1163799",
+      "url": "https://www.wikidata.org/wiki/Q1163799"
+    },
+    {
+      "name": "Olympic National Park",
+      "id": "Q372093",
+      "url": "https://www.wikidata.org/wiki/Q372093"
+    },
+    {
+      "name": "Petrified Forest National Park",
+      "id": "Q305949",
+      "url": "https://www.wikidata.org/wiki/Q305949"
+    },
+    {
+      "name": "Pinnacles National Park",
+      "id": "Q1783768",
+      "url": "https://www.wikidata.org/wiki/Q1783768"
+    },
+    {
+      "name": "Redwood National and State Parks",
+      "id": "Q191824",
+      "url": "https://www.wikidata.org/wiki/Q191824"
+    },
+    {
+      "name": "Rocky Mountain National Park",
+      "id": "Q777183",
+      "url": "https://www.wikidata.org/wiki/Q777183"
+    },
+    {
+      "name": "Saguaro National Park",
+      "id": "Q676206",
+      "url": "https://www.wikidata.org/wiki/Q676206"
+    },
+    {
+      "name": "Sequoia National Park",
+      "id": "Q152660",
+      "url": "https://www.wikidata.org/wiki/Q152660"
+    },
+    {
+      "name": "Shenandoah National Park",
+      "id": "Q1137401",
+      "url": "https://www.wikidata.org/wiki/Q1137401"
+    },
+    {
+      "name": "Theodore Roosevelt National Park",
+      "id": "Q1137669",
+      "url": "https://www.wikidata.org/wiki/Q1137669"
+    },
+    {
+      "name": "Virgin Islands National Park",
+      "id": "Q491005",
+      "url": "https://www.wikidata.org/wiki/Q491005"
+    },
+    {
+      "name": "Voyageurs National Park",
+      "id": "Q1368788",
+      "url": "https://www.wikidata.org/wiki/Q1368788"
+    },
+    {
+      "name": "White Sands National Park",
+      "id": "Q1200164",
+      "url": "https://www.wikidata.org/wiki/Q1200164"
+    },
+    {
+      "name": "Wind Cave National Park",
+      "id": "Q1334313",
+      "url": "https://www.wikidata.org/wiki/Q1334313"
+    },
+    {
+      "name": "Wrangell\u2013St. Elias National Park and Preserve",
+      "id": "Q748597",
+      "url": "https://www.wikidata.org/wiki/Q748597"
+    },
+    {
+      "name": "Yellowstone National Park",
+      "id": "Q351",
+      "url": "https://www.wikidata.org/wiki/Q351"
+    },
+    {
+      "name": "Yosemite National Park",
+      "id": "Q180402",
+      "url": "https://www.wikidata.org/wiki/Q180402"
+    },
+    {
+      "name": "Zion National Park",
+      "id": "Q205325",
+      "url": "https://www.wikidata.org/wiki/Q205325"
+    }
+  ],
+  "total": 63
+}
