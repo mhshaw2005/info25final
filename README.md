@@ -1,11 +1,10 @@
-# info25final
+## info25final
 
-use national parks and wikipedia
-- social media followers vs park visitors
-- park visotors before and after covid
-- show corelation of key words
+# Main Idea
+We will be takeing data from each park about how many visitors each park has gotten over the years. We will use this data to show which parks are the most popular, which parks are the least popular, as well as showing the effect that covid had on national park visitors.
 
-API links
-- https://www.wikidata.org/wiki/Wikidata:REST_API
-- https://pypi.org/project/Wikipedia-API/
-- 
+# Data
+
+# API
+
+# Conclusion
