@@ -21,6 +21,10 @@ Further investigation into the conditions of each park in each year and the visi
 
 The above graph shows the total number of visitors to each park every 10 years. This is able to show us the progerssion of visitors through-out the years. It also is great to show the differece in growth rate from the 1910-2020.
 
+<img width="640" height="398" alt="Image" src="API_and_Seaborn_Plots/Plot_line_average.png" />
+
+This plot shows a focused look at the parks (those with available data for all the years shown) and the changes from the preceding years to 2020. It averaged all these parks visitor counts over the year to show a general trend over time for parks across the nation.
+
 ## API
 
 ## Conclusion
