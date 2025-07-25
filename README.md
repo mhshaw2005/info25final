@@ -17,7 +17,7 @@ These plots do have some interesting information. Many parks had very little cha
 Further investigation into the conditions of each park in each year and the visitor count for each park in each year would be needed to determine if the COVID-19 pandemic caused lower/higher visitor attendence to each National Park. 
 
 
-<img width="640" height="480" alt="Image" src="https://github.com/user-attachments/assets/fa08bee2-fa0d-46de-b3a6-dad8886fb718" />
+<img width="640" height="480" alt="Image" src="lineGraph.png" />
 
 ## API
 
