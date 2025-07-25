@@ -52,6 +52,9 @@ This visualization shows the visitor density of National Parks during Covid (rat
 
 
 ## API
+Our data collection process used a two-stage approach with the Wikidata API. First, we queried Wikidata's SPARQL endpoint to identify all US National Parks that have visitor data available, filtering out duplicates and extracting their unique identifiers. This gave us 63 parks to work with.
+In the second stage, we used the Wikidata API to fetch detailed information for each park, including coordinates, visitor history by year, and area measurements. The script implemented rate limiting and retry logic. We also built in unit conversion to standardize all area measurements, handling various units like hectares, square kilometers, and square miles.
+This approach provided us with clean, standardized data to analyze how the pandemic might have affected visitation patterns across different parks and regions.
 
 ## Conclusion
 In conclusion, the US National Parks did experience a decline in total number of visitors during the 2020 pandemic. This phenomenon was not equally distributed across all parks, though, as some experienced a growth in popularity during the pandemic. THe US mainland National Parks were the only ones to grow in popularity, likley because air travel was limited during the pandemic. The data used for this project does not have sufficient data to determine if the lockdown was the cause of the observed changes in visitor numbers. The main limitation to our analysis is that only 16 of 60+ parks recorded visitor population for 2019, and fewer recorded visitor counts in 2020 and 2021. A year-by-year account of each National Park, their specific type of recreation and their accessibility to visitors in terms of travel and recreation level would be needed in order to make this conclusion. 
