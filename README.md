@@ -16,6 +16,9 @@ These three plots show the total number of visitors at individual National Parks
 These plots do have some interesting information. Many parks had very little change in their visitor numbers between 2019 and 2020. Black Canyon of the Gunnison, Crater Lake National Park, Everglades National Park, Bryce Canyon, and Dry Tortugas National Park, all had noteably more visitors in 2020 than 2019. Conagree National Park, Capitol Reef National Park, Carlsbad Caverns National Park, Glacier Bay National Park and Preserve, and Biscayne National Park all had noteably fewer visitors in 2020 than 2021. In 2021, the visitor count for Cuyahoga Valley National Park, which had been somewhat constant between 2019-2020, skyrocketed along with the Everglades National Park attendence. 
 Further investigation into the conditions of each park in each year and the visitor count for each park in each year would be needed to determine if the COVID-19 pandemic caused lower/higher visitor attendence to each National Park. 
 
+
+<img width="640" height="480" alt="Image" src="https://github.com/user-attachments/assets/fa08bee2-fa0d-46de-b3a6-dad8886fb718" />
+
 ## API
 
 ## Conclusion
