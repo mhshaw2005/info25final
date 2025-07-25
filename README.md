@@ -25,6 +25,32 @@ The above graph shows the total number of visitors to each park every 10 years. 
 
 This plot shows a focused look at the parks (those with available data for all the years shown) and the changes from the preceding years to 2020. It averaged all these parks visitor counts over the year to show a general trend over time for parks across the nation.
 
+<img width="640" height="398" alt="Image" src="API_and_Seaborn_Plots/Plot_combo_box_strip.png" />
+
+This visualization shows the distribution of visitors across the parks for each year. It uses a log scale to get a better sense of the movement and deviation from the preexisting trend before 2020. It shows each quartile, the median, and individual parks.
+
+<img width="640" height="398" alt="Image" src="API_and_Seaborn_Plots/Plot_violin.png" />
+
+This visualization uses a violin plot, intuitively similar to a histogram, to get a sense of the distribution density of park visitors across different years. Notice how the 2020 distribution shows both a lower peak and a compression of the densest area toward fewer visitors, representing the widespread impact on park visitation that year.
+
+<img width="640" height="640" alt="Image" src="Geographic_Visualizations/map_visitors_2010.png" />
+
+This geographic visualization shows us the baseline number of visitors for the year 2010, with every park represented and more popular National Parks are shown as darker red/orange. The visually noticeable and popular ones include Great Smoky Mountains, Yosemite, and Grand Canyon National Parks.
+
+<img width="640" height="640" alt="Image" src="Geographic_Visualizations/map_change_absolute_2019_vs_2020.png" />
+
+This visualization shows the absolute amount of decrease in visitors from 2019 to 2020, only showing parks where data is available. The darker red represents a bigger drop in visitor count. The biggest difference is noticeable in Yosemite, Glacier, Rocky Mountain and Gateway Arch National Parks.
+
+<img width="640" height="640" alt="Image" src="Geographic_Visualizations/map_change_percent_2019_vs_2020.png" />
+
+This geographic visualization shows the percent decrease of visitors from 2019 to 2020, and compared to the previous map it more clearly shows proportionally large drops in Alaska and Hawaii. It is even visible now to see small increase in visitors across the Northeast and US Virgin Islands.
+
+<img width="640" height="640" alt="Image" src="Geographic_Visualizations/map_density_2020.png" />
+
+This visualization shows the visitor density of National Parks during Covid (ratio of visitors in the year 2020 and area of the park). Darker blue represents parks with more visitors per unit area. Parks in the Eastern US are relatively packed, while the Northern Contiguous US and Alaska are much sparser. The values are represented in a nonlinear fashion to increase visual contrast.
+
+
+
 ## API
 
 ## Conclusion
