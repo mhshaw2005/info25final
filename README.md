@@ -19,6 +19,8 @@ Further investigation into the conditions of each park in each year and the visi
 
 <img width="640" height="480" alt="Image" src="lineGraph.png" />
 
+The above graph shows the total number of visitors to each park every 10 years. This is able to show us the progerssion of visitors through-out the years. It also is great to show the differece in growth rate from the 1910-2020.
+
 ## API
 
 ## Conclusion
